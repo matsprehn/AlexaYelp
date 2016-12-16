@@ -1,0 +1,27 @@
+{
+  "intents": [
+    {
+      "intent": "GetFirstRecommendationIntent",
+      "slots": [{
+          "name": "City",
+          "type": "LITERAL"
+        }]
+    },
+    {
+      "intent": "GetMoreInfoIntent",
+      "slots": []
+    },
+    {
+      "intent":"GetAnotherIntent",
+      "slots":[]
+    },
+    {
+      "intent":"FinishIntent",
+      "slots":[]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}

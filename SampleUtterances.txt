@@ -1,0 +1,65 @@
+GetFirstRecommendationIntent whats a good place to eat in {Irvine|City}
+GetFirstRecommendationIntent whats a good place to eat in {Los Angeles|City}
+GetFirstRecommendationIntent whats a good place to eat in {New York|City}
+GetFirstRecommendationIntent whats a good place to eat in {Chicago |City}
+GetFirstRecommendationIntent whats a good place to eat in {Philadelphia|City}
+GetFirstRecommendationIntent to pick a place to eat in {Irvine|City}
+GetFirstRecommendationIntent to pick a place to eat in {Los Angeles|City}
+GetFirstRecommendationIntent to pick a place to eat in {New York|City}
+GetFirstRecommendationIntent to pick a place to eat in {Chicago|City}
+GetFirstRecommendationIntent to pick a place to eat in {Philadelphia|City}
+GetFirstRecommendationIntent to pick a restaurant in {Irvine|City}
+GetFirstRecommendationIntent to pick a restaurant in {Los Angeles|City}
+GetFirstRecommendationIntent to pick a restaurant in {New York|City}
+GetFirstRecommendationIntent to pick a restaurant in {Chicago|City}
+GetFirstRecommendationIntent to pick a restaurant in {Philadelphia|City}
+GetFirstRecommendationIntent Where should I eat at {Irvine|City}
+GetFirstRecommendationIntent Where should I eat at {Los Angeles|City}
+GetFirstRecommendationIntent Where should I eat at {New York|City}
+GetFirstRecommendationIntent Where should I eat at {Chicago|City}
+GetFirstRecommendationIntent Where should I eat at {Philadelphia|City}
+
+GetMoreInfoIntent yes
+GetMoreInfoIntent yup
+GetMoreInfoIntent tell me more
+GetMoreInfoIntent okay
+GetMoreInfoIntent affirmative
+GetMoreInfoIntent please
+GetMoreInfoIntent I would love to
+GetMoreInfoIntent of course
+
+GetAnotherIntent no
+GetAnotherIntent next
+GetAnotherIntent next place
+GetAnotherIntent another place
+GetAnotherIntent not really
+GetAnotherIntent no thanks
+GetAnotherIntent another
+
+FinishIntent forget it
+FinishIntent nevermind
+FinishIntent never mind
+FinishIntent cancel
+FinishIntent i am done
+FinishIntent i'm done
+FinishIntent stop
+FinishIntent abort
+FinishIntent thanks
+FinishIntent thank you
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent to help
+HelpIntent to help me
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me
