@@ -14,8 +14,8 @@ It uses the Alexa Skills Kit and Amazon Lambda
 * upload zip to Amazon Lambda
 
 ## How do I use this? ##
-Ask "Where should I go to eat in ${location}" to get a random yelp reccomendation of where to eat
-When Alexa gives you a reccomendation, say "yes" to hear more about the restaurant, "no" or "next" to get another restaurant, or "stop" to make Alexa shut up
+Ask "Where should I go to eat in ${location}" to get a random yelp reccomendation of where to eat  
+When Alexa gives you a reccomendation, say "yes" to hear more about the restaurant, "no" or "next" to get another restaurant, or "stop" to make Alexa shut up  
 Checkout the [Sample Utterances file](SampleUtterances.txt) to see other ways to invoke this skill  
 
 # License #
