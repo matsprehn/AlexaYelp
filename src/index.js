@@ -5,19 +5,23 @@
  */
 var IDS = require('./appID')
 var APP_ID = IDS.APPID
+var Yelp = require('yelp')
 
 /**
  * The AlexaSkill prototype and helper functions
  */
 var AlexaSkill = require('./AlexaSkill');
-var yelp = require('./yelp/index').createClient({
-
+var yelp = new Yelp({
+  consumer_key: IDS.CONSUMER_KEY, 
+  consumer_secret: IDS.CONSUMER_SECRET,
+  token: IDS.TOKEN,
+  token_secret: IDS.TOKEN_SECRET
 });
 
 
 
 /**
- * HelloWorld is a child of AlexaSkill.
+ * YelpApp is a child of AlexaSkill.
  * To read more about inheritance in JavaScript, see the link below.
  *
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript#Inheritance
